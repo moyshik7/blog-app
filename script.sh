@@ -1,4 +1,4 @@
-for i in {1..5}
+for i in {1..500}
 do
     echo "this is a line $(date +%s%N)" > file.txt
     git add .
