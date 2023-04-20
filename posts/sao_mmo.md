@@ -1,8 +1,8 @@
 ---
 title: 'Want to have a MMORPG isekai experience in actual? Live your anime life in these games'
 date: 'April 20, 2023'
-excerpt: "The two best games that I've found on the internet that are available on both mobile and PC are the ones that I've played for over two years each. I'll tell you about these games and what features they have, along with my personal experience playing them."
-cover_image: '/images/posts/sao_mmo.jpg'
+excerpt: "I'll tell you about the two best games that I've found on the internet. I'll tell you about these games and what features they have, along with my personal experience playing them."
+cover_image: 'https://images2.imgbox.com/37/c2/gKzQsVib_o.jpg'
 ---
 
 ### The Isekai Experience We Dream Of
