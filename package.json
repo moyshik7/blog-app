@@ -5,11 +5,11 @@
   "scripts": {
     "dev": "SET NODE_OPTIONS=--openssl-legacy-provider && next dev",
     "build": "SET NODE_OPTIONS=--openssl-legacy-provider && next build && next export",
-    "start": "SET NODE_OPTIONS=--openssl-legacy-provider && next start",
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider && next start -p 80",
     "lint": "SET NODE_OPTIONS=--openssl-legacy-provider && next lint",
     "dev-linux": "export NODE_OPTIONS=--openssl-legacy-provider && next dev",
     "build-linux": "export NODE_OPTIONS=--openssl-legacy-provider && next build && next export",
-    "start-linux": "export NODE_OPTIONS=--openssl-legacy-provider && next start",
+    "start-linux": "export NODE_OPTIONS=--openssl-legacy-provider && next start -p 80",
     "lint-linux": "export NODE_OPTIONS=--openssl-legacy-provider && next lint"
   },
   "dependencies": {
