@@ -3,6 +3,7 @@ import path from 'path'
 import matter from 'gray-matter'
 import marked from 'marked'
 import Link from 'next/link'
+//import "./../../styles/blog/[slug].style.css"
 
 export default function PostPage({
   frontmatter: { title, date, cover_image },
@@ -10,10 +11,10 @@ export default function PostPage({
   content,
 }) {
   return (
-    <>
-      <Link href='/'>
+    <div id="main">
+      {/*<Link href='/'>
         <a className='btn btn-back'>Go Back</a>
-      </Link>
+      </Link>*/}
       <div className='card card-page'>
         <h1 className='post-title'>{title}</h1>
         <div className='post-date'>Posted on {date}</div>
@@ -22,7 +23,7 @@ export default function PostPage({
           <div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>
         </div>
       </div>
-    </>
+    </div>
   )
 }
 

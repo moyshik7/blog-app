@@ -8,6 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: #5d73bb;
 }
 
 p {
@@ -29,7 +30,6 @@ header {
   background: steelblue;
   color: #fff;
   padding: 5px;
-  margin-bottom: 40px;
 }
 
 header a {
@@ -40,7 +40,9 @@ header a {
   max-width: 768px;
   margin: auto;
   overflow: auto;
-  padding: 0 10px;
+  padding: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .btn {
@@ -81,6 +83,7 @@ header a {
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: #A9AFD1;
 }
 
 .card-page {
@@ -92,9 +95,9 @@ header a {
 }
 
 .post-date {
-  background: #f4f4f4;
   margin-bottom: 20px;
   padding: 3px 10px;
+  font-family: monospace;
 }
 
 .post-body ul,
@@ -110,6 +113,9 @@ ol {
   padding: 20px;
   margin: 20px 0;
   line-height: 2.3;
+}
+.card-page {
+  background: #98A6D4;
 }
 video {
   width: 100%;

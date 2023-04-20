@@ -11,7 +11,7 @@ export default function Post({ post }) {
 
       <p>{post.frontmatter.excerpt}</p>
 
-      <Link href={`/blog/${post.slug}`}>
+      <Link href={`/blog/${post.slug}`} style={{backgroundColor: "#ECB8A5"}}>
         <a className='btn'>Read More</a>
       </Link>
     </div>
