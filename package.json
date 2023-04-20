@@ -6,7 +6,11 @@
     "dev": "SET NODE_OPTIONS=--openssl-legacy-provider && next dev",
     "build": "SET NODE_OPTIONS=--openssl-legacy-provider && next build && next export",
     "start": "SET NODE_OPTIONS=--openssl-legacy-provider && next start",
-    "lint": "SET NODE_OPTIONS=--openssl-legacy-provider && next lint"
+    "lint": "SET NODE_OPTIONS=--openssl-legacy-provider && next lint",
+    "dev-linux": "export NODE_OPTIONS=--openssl-legacy-provider && next dev",
+    "build-linux": "export NODE_OPTIONS=--openssl-legacy-provider && next build && next export",
+    "start-linux": "export NODE_OPTIONS=--openssl-legacy-provider && next start",
+    "lint-linux": "export NODE_OPTIONS=--openssl-legacy-provider && next lint"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
