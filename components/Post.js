@@ -9,7 +9,7 @@ export default function Post({ post }) {
 
       <h3>{post.frontmatter.title}</h3>
 
-      <p>{post.frontmatter.excerpt}</p>
+      <p className="excerpt" >{post.frontmatter.excerpt}</p>
 
       <Link href={`/blog/${post.slug}`} style={{backgroundColor: "#ECB8A5"}}>
         <a className='btn'>Read More</a>

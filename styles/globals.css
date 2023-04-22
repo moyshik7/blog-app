@@ -85,7 +85,10 @@ header a {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   background-color: #A9AFD1;
 }
-
+.excerpt {
+  font-family: monospace;
+  font-weight: 500;
+}
 .card-page {
   padding: 15px 30px;
 }
