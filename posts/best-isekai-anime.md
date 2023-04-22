@@ -5,23 +5,29 @@ excerpt: "@Hajime"
 cover_image: 'https://images2.imgbox.com/46/02/PMVX05wM_o.png'
 ---
   
-## 10. Arifureta: From Commonplace to World's Strongest
+<div id="10"></div>
+
+## 10. Arifureta: From Commonplace to World's Strongest 
 [MAL](https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou)  
 17-year-old Hajime Nagumo is sent to a fantasy world where he and his classmates are tasked with saving mankind. During an expedition in the Great Orcus Labyrinth, Hajime is betrayed by one of his classmates, plummeting him to the bottom of an abyss. Desperate to live, he resolves to fight for his survival, only to meet an imprisoned vampire, Yue, who is also seeking to escape the labyrinth. Yue takes an interest in him and helps him on his journey to find a way back home, while transforming from commonplace to the world's strongest.  
   
 I am probably just a lolicon.  
   
 ![Arifureta: From Commonplace to World's Strongest](https://images2.imgbox.com/2d/ff/PCdOd7vD_o.png)
+  
+<div id="9"></div>
 
-## 09. Zero No Tsukaima
+## 09. Zero No Tsukaima 
 [MAL](https://myanimelist.net/anime/1195/Zero_no_Tsukaima)  
 Louise FranÃ§oise Le Blanc de La ValliÃ¨re is a self-absorbed mage in a world of wands, cloaks, and royalty. When her summoning ritual results in a catastrophic explosion, a boy named Saito Hiraga appears. Now Louise's familiar, Saito is treated as a slave, forced to clean her clothes and eat off the ground. Zero no Tsukaima follows Saito as he comes to terms with his new life and as Louise proves that there is more to her than her nickname suggests.  
   
 Obnoxious female lead, comedy, magic and a sweet slow developing romance, you probably gonna love this one.  
   
 ![Zero No Tsukaima](https://images2.imgbox.com/ee/7c/xgarJCNx_o.png)
+  
+<div id="8"></div>
 
-## 08. Log Horizon
+## 08. Log Horizon 
 [MAL](https://myanimelist.net/anime/17265/Log_Horizon)  
 Shiroe must learn to live in this new world, leading others and negotiating with the NPC "natives" in order to bring stability to Akihabara. A tale of fantasy, adventure, and politics, Log Horizon explores the elements of gaming through the eyes of a master strategist who attempts to make the best of a puzzling situation.  
   
@@ -29,7 +35,9 @@ Smart MC, Loli Female Lead, Magic and so on. You are 100% gonna love this one, a
   
 ![Log Horizon](https://images2.imgbox.com/04/55/UT5Wg0x1_o.png)
   
-## 07. Overlord
+<div id="7"></div>
+
+## 07. Overlord 
 [MAL](https://myanimelist.net/anime/29803/Overlord)  
 YGGDRASIL was a Full-Dive Massively Multiplayer Online Role Playing Game or DMMORPG. Within the game exists a guild, Ainz Ooal Gown, once consisting of 41 members and credited as one of the strongest guilds in the game. After an intense twelve-year run, the game servers are about to be shut down. Momonga finds that the game hasn't vanished, instead, it appears as if Nazarick has been transported to another reality altogether and, moreover, the non-player characters appear to have developed personalities of their own!  
   
@@ -37,7 +45,9 @@ I just love this one. Overpowered MC, magic, badass female lead and moreover, MC
   
 ![Overlord](https://images2.imgbox.com/48/40/t45BT1yP_o.png)
   
-## 06. The Rising of the Shield Hero
+<div id="6"></div>
+
+## 06. The Rising of the Shield Hero 
 [MAL](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)  
 Naofumi Iwatani, an otaku, becomes cursed with the fate of being the "Shield Hero". Armed with only a measly shield, Naofumi is belittled and ridiculed by his fellow heroes and the kingdom's people due to his weak offensive capabilities and lackluster personality. He buys a demi-human slave on the verge of death named Raphtalia to accompany him on his travels.  
   
@@ -47,7 +57,9 @@ Episode 1 enough to make you binge-watch the whole series without any break.
   
 ![The Rising of the Shield Hero](https://images2.imgbox.com/e4/2f/keANM8XH_o.png)
   
-## 05. No Game No Life
+<div id="5"></div>
+
+## 05. No Game No Life 
 [MAL](https://myanimelist.net/anime/19815/No_Game_No_Life)  
 Sora and Shiro are two shut-ins who dominate various online games under the username "Blank". After responding to an unknown user, they are suddenly transported to Disboard. Sixteen sentient races inhabit Disboard, a world overseen by Tet, the One True God. The lowest of the sixteenâ€”Imanityâ€”consists of humans, a race with no affinity for magic.  
   
@@ -55,7 +67,9 @@ They are taken to Elkia, where they meet Stephanie Dola, an emotional girl vying
   
 ![No Game No Life](https://images2.imgbox.com/11/09/myjxYLUc_o.png)
   
-## 04. KonoSuba: God's Blessing on this Wonderful World!
+<div id="4"></div>
+
+## 04. KonoSuba: God's Blessing on this Wonderful World! 
 [MAL](https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo)  
 After dying a laughable and pathetic death on his way back from buying a game, Kazuma Satou finds himself sitting before a beautiful but obnoxious goddess named Aqua. She provides the NEET with two options: continue on to heaven or reincarnate in every gamer's dream. Living in such a world is far different from how it plays out in a video game.  
   
@@ -65,7 +79,9 @@ Konosuba has beautiful art, unique characters, comedy (really a lot), useless Aq
   
 ![KonoSuba: God's Blessing on this Wonderful World!](https://images2.imgbox.com/3e/fd/8XPcKLXT_o.png)
   
-## 03. That Time I Got Reincarnated as a Slime
+<div id="3"></div>
+
+## 03. That Time I Got Reincarnated as a Slime 
 [MAL](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken)  
 The story follows Satoru Mikami as he is reincarnated as a goop of slime in an unfamiliar realm. In doing so, he acquires newfound skills and the power to devour anything and mimic its appearance and abilities. He stumbles upon Veldora, a powerful 'Storm Dragon', who has been sealed for the last 300 years. Feeling sorry for him, Satoru befriends the dragon, promising to help him. They decide to exchange names, Veldora bestows upon him the name Rimuru and receives the name Tempest in return. Rimuru Tempest is liberated from his past life and embarks on a fresh journey with a distinct goal in mind.  
   
@@ -73,7 +89,9 @@ I absolutely love TenSura (aka That Time I Got Reincarnated as a Slime). Our Rim
   
 ![That Time I Got Reincarnated as a Slime](https://images2.imgbox.com/bf/59/bLR0nUYD_o.png)
   
-## 02. Re:ZERO -Starting Life in Another World
+<div id="2"></div>
+
+## 02. Re:ZERO -Starting Life in Another World <div id="2"></div>
 [MAL](https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu)  
 When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Not long after his arrival, he is attacked by some thugs. Fortunately, a mysterious beauty named Satella, in hot pursuit after the one who stole her insignia, saves him.  
   
@@ -83,7 +101,9 @@ Beautiful art, soundtrack, character design, it's 10/10 Anime for me. Do you lik
   
 ![Re:ZERO -Starting Life in Another World](https://images2.imgbox.com/4d/d0/HKpbfKWb_o.png)
   
-## 01. Mushoku Tensei: Jobless Reincarnation
+<div id="1"></div>
+
+## 01. Mushoku Tensei: Jobless Reincarnation 
 [MAL](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)  
 A 34-year-old shut-in awakens in another world as a baby born to two loving parents. With the mind of a grown adult, he starts to display magical talent that exceeds all expectations. He tries to make the most of his new opportunity while conquering his traumatic past. And perhaps, one day, he may find the one thing he could not find in his old world -- love. 
   
@@ -97,14 +117,14 @@ Quick Recap:
   
 # Top 10 Best Isekai Anime of all Time
 <ol>
-    <li>Mushoku Tensei: Jobless Reincarnation</li>
-    <li>Re:ZERO -Starting Life in Another World</li>
-    <li>That Time I Got Reincarnated as a Slime</li>
-    <li>KonoSuba: God's Blessing on this Wonderful World</li>
-    <li>No Game No Life</li>
-    <li>The Rising of the Shield Hero</li>
-    <li>Overlord</li>
-    <li>Log Horizon</li>
-    <li>Zero No Tsukaima</li>
-    <li>Arifureta: From Commonplace to World's Strongest</li>
+    <li><a href="#1">Mushoku Tensei: Jobless Reincarnation</a></li>
+    <li><a href="#2">Re:ZERO -Starting Life in Another World</a></li>
+    <li><a href="#3">That Time I Got Reincarnated as a Slime</a></li>
+    <li><a href="#4">KonoSuba: God's Blessing on this Wonderful World</a></li>
+    <li><a href="#5">No Game No Life</a></li>
+    <li><a href="#6">The Rising of the Shield Hero</a></li>
+    <li><a href="#7">Overlord</a></li>
+    <li><a href="#8">Log Horizon</a></li>
+    <li><a href="#9">Zero No Tsukaima</a></li>
+    <li><a href="#10">Arifureta: From Commonplace to World's Strongest</a></li>
 </ol>
