@@ -1,7 +1,7 @@
 ---
 title: 'Is it worth watching "Stop! Hibari-kun!"?'
 date: 'April 21, 2023'
-excerpt: "Is this anime worth watching or is it just another trap romcom anime with the same plot as others"
+excerpt: "@Hajime"
 cover_image: 'https://images2.imgbox.com/a4/65/vDoGvWfN_o.jpg'
 ---
   

@@ -1,7 +1,7 @@
 ---
 title: 'Want to have a MMORPG isekai experience in actual? Live your anime life in these games'
 date: 'April 20, 2023'
-excerpt: "I'll tell you about the two best games that I've found on the internet. I'll tell you about these games and what features they have, along with my personal experience playing them."
+excerpt: "@Zercus"
 cover_image: 'https://images2.imgbox.com/37/c2/gKzQsVib_o.jpg'
 ---
 
